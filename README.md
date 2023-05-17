@@ -34,6 +34,8 @@
 <img align="center" alt="Javascript" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <b>JAVASCRIPT</b>&nbsp;
 <img align="center" alt="Typescript" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <b>TYPESCRIPT</b>&nbsp;
 <img align="center" alt="Node.js" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> <b>NODE.JS</b>&nbsp;
+<img align="center" alt="Next.js" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <b>NEXT.JS</b>&nbsp;
+
 
 
 <div align="center">
