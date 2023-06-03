@@ -8,9 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wgleyberton&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wgleyberton&theme=gotham)
-  
-
           
 ### Main skills:
 <img align="center" alt="React.js" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <b>REACT.JS</b>&nbsp;
