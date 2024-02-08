@@ -10,10 +10,10 @@
 
           
 ### Main skills:
-<img align="center" alt="React.js" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <b>REACT.JS</b>&nbsp;
-<img align="center" alt="Javascript" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <b>JAVASCRIPT</b>&nbsp;
+<img align="center" alt="React.js" height ="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <b>REACT.JS</b>&nbsp;
+<img align="center" alt="Javascript" height ="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <b>JAVASCRIPT</b>&nbsp;
 <img align="center" alt="Github" height ="60" width="120" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" />&nbsp;
-<img align="center" alt="CSS" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <b>CSS</b>&nbsp;
+<img align="center" alt="CSS" height ="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <b>CSS</b>&nbsp;
  
  
 ### Other Knowledge:
