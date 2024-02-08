@@ -18,19 +18,19 @@
  
 ### Other Knowledge:
 
-<img align="center" alt="CSharp" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <b>CSHARP</b>&nbsp;
-<img align="center" alt="Java" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <b>JAVA</b>&nbsp;
-<img align="center" alt="PHP" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <b>PHP</b>&nbsp;
-<img align="center" alt="MongoDB" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> <b>MONGODB</b>&nbsp;
-<img align="center" alt="MySql" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <b>MYSQL</b>&nbsp;
+<img align="center" alt="CSharp" height ="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <b>CSHARP</b>&nbsp;
+<img align="center" alt="Java" height ="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <b>JAVA</b>&nbsp;
+<img align="center" alt="PHP" height ="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <b>PHP</b>&nbsp;
+<img align="center" alt="MongoDB" height ="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> <b>MONGODB</b>&nbsp;
+<img align="center" alt="MySql" height ="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <b>MYSQL</b>&nbsp;
 
 
   
 ### Studying in this moment:
-<img align="center" alt="Python" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <b>PYTHON</b>&nbsp;
-<img align="center" alt="Typescript" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <b>TYPESCRIPT</b>&nbsp;
-<img align="center" alt="Node.js" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> <b>NODE.JS</b>&nbsp;
-<img align="center" alt="Next.js" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <b>NEXT.JS</b>&nbsp;
+<img align="center" alt="Python" height ="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <b>PYTHON</b>&nbsp;
+<img align="center" alt="Typescript" height ="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <b>TYPESCRIPT</b>&nbsp;
+<img align="center" alt="Node.js" height ="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> <b>NODE.JS</b>&nbsp;
+<img align="center" alt="Next.js" height ="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <b>NEXT.JS</b>&nbsp;
 
 
 
